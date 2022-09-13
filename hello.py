@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #3 x 3 matrix
 from unittest import result
 
@@ -13,3 +14,7 @@ result = [[sum(a * b for a, b in zip(X_row, Y_col)) for Y_col in zip(*Y)]
 print(f"the result is:")
 for r in result:
     print(r)
+=======
+print('Hello word!')
+#update this program to a program to do multiplication of two matrix provided by a use
+>>>>>>> 658cb6d565911a5f42d55fcedf316ab420fc5744

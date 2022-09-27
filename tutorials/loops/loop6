@@ -1,0 +1,16 @@
+#nesterd loop
+
+for i in range(11):
+    for j in range(i):
+        print('*', end=' ')
+    print(' ')
+    
+    
+    #using a nested while 
+i = 11
+while(i > 0):
+    j = 11
+    while(j>i):
+        print('*', end=' ')
+        j = j-1
+        print()

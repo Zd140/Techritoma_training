@@ -1,0 +1,7 @@
+other funtions
+max() and min() which returns the maximum and mininum values in an array
+paw() syntax paw(3, 3) raises to the pawer
+range() determins a sequence of number starting from zero and increments by 1 till the n-1
+round() rounf off a number with the specified decimal [place]
+sorted(iterable) sorts a list
+slice()

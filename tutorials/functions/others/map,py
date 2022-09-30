@@ -1,0 +1,9 @@
+def add(a):
+    return a+a
+
+num =(4,2,6,5)
+
+out = map(add, num)
+print(out)
+add =list(out)
+print(add)

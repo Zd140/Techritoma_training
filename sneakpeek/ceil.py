@@ -1,2 +1,2 @@
 import math
-math.ceil(2.678)
+print(math.ceil(2.678))
